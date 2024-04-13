@@ -51,7 +51,7 @@ function SignIn() {
             <Button 
             variant="link"
             onClick={() => navigate("/signup")}
-            color={'white'} // Añadí color={'white'} aquí para el texto "¿No tienes una cuenta?"
+            color={'white'} 
             >
               ¿No tienes una cuenta?
             </Button>
